@@ -9,7 +9,7 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  divsum = num2 / num1
+  divsum = num1 / num2
 end
 
 def multiplication(num1, num2)
@@ -23,4 +23,5 @@ end
 
 def square_root(num)
   sqrt(num)
+  num
 end
